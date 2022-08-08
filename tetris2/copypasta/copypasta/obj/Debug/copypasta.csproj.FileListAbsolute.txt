@@ -1,0 +1,8 @@
+C:\Users\2JDmtec\Desktop\tetris2\copypasta\copypasta\bin\Debug\copypasta.exe.config
+C:\Users\2JDmtec\Desktop\tetris2\copypasta\copypasta\bin\Debug\copypasta.exe
+C:\Users\2JDmtec\Desktop\tetris2\copypasta\copypasta\bin\Debug\copypasta.pdb
+C:\Users\2JDmtec\Desktop\tetris2\copypasta\copypasta\obj\Debug\copypasta.csproj.AssemblyReference.cache
+C:\Users\2JDmtec\Desktop\tetris2\copypasta\copypasta\obj\Debug\copypasta.csproj.SuggestedBindingRedirects.cache
+C:\Users\2JDmtec\Desktop\tetris2\copypasta\copypasta\obj\Debug\copypasta.csproj.CoreCompileInputs.cache
+C:\Users\2JDmtec\Desktop\tetris2\copypasta\copypasta\obj\Debug\copypasta.exe
+C:\Users\2JDmtec\Desktop\tetris2\copypasta\copypasta\obj\Debug\copypasta.pdb
